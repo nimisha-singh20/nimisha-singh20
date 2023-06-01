@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Learning more about **DSA | Web Developement**
+- 🌱 Learning more about **App Developement | Web Developement**
 
 - 💬 Experience with **C | C++ | Python | Java**
 
