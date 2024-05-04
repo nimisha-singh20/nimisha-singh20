@@ -3,19 +3,19 @@
   height="45"
   width="45" />  I'm Nimisha Singh !</h1>
 <h3 align="center">| Aspiring Software Developer |</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditirai17&label=Profile%20views&color=0e75b6&style=flat" alt="aditirai17" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Learning more about **App Developement | Web Developement**
+- Projects on **Machine Learning | AI | Web Developement**
 
-- 💬 Experience with **C | C++ | Python | Java**
+- Proficient in **Java | C++ | C | Python**
 
-- 📫 Reach me through **singhnimishaa08@gmail.com**
+- Reach me through **singhnimishaa08@gmail.com**
 
-- ⚡ Life Mantra **Believe in the magic of starting anew!**
+- Life Mantra **Believe in the magic of starting anew!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
